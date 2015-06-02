@@ -1,4 +1,3 @@
-# Embedded Video tests in the IPython notebook
+# Video writing and embedding tests in the IPython notebook
 
-This repo is a simple set of examples to test the behavior of embedded
-video with various browsers.
+This repo contains tests for writing time-varying matplotlib output to disk as a video in .mp4 format, and subsequent embedding of that video in the ipython notebook. 
